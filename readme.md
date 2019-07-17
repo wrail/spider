@@ -15,3 +15,6 @@
 
 ## 参考W3C XPath
 - [xpath](http://www.w3school.com.cn/xpath/xpath_syntax.asp)
+
+注意点：
+选择驱动时要和浏览器版本对应，比如chromeDriver
